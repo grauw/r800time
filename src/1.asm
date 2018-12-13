@@ -1,0 +1,14 @@
+	INCLUDE "R800Time.asm"
+
+name:
+	db "MULUW HL,BC$"
+
+SETUP: MACRO
+	ENDM
+
+REFERENCE: MACRO
+	ENDM
+
+TEST: MACRO
+	muluw hl,bc
+	ENDM
