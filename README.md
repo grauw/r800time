@@ -9,7 +9,7 @@ Project information
 Cycle-exact R800 instruction timing tester using the VDP.
 
   * Author: Laurens Holst <laurens@grauw.nl>
-  * Source: <https://hg.sr.ht/~grauw/r800time>
+  * Source: <https://github.com/grauw/r800time>
   * License: Simplified BSD License
 
 
